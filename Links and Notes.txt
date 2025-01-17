@@ -3,10 +3,36 @@ For Fonts: https://fonts.google.com/
 
 Git hub Push
 https://www.warp.dev/terminus/git-create-repository?gad_source=1&gclid=Cj0KCQiA1p28BhCBARIsADP9HrMwW7ZiRlOOyqn0F3E4B0GA6ydDaJLbJ-uFQ9fC8bYEb7Vsz0jsAUsaAm1zEALw_wcB
-
+GitHub:  https://github.com/Sbalmedina/phBMI.git
 Cool Background
 https://coolbackgrounds.io/
 https://cssgradient.io/
 
 Cool Design
 https://designstripe.com/search/illustrations?ref=cssgradient-nav
+
+Sample Name for Branch
+Feature Branches
+feature/user-authentication
+feature/add-shopping-cart
+feature/improve-ui-layout
+Bug Fix Branches
+bugfix/fix-login-error
+bugfix/correct-typo-dashboard
+bugfix/resolve-api-timeout
+Hotfix Branches
+hotfix/security-vulnerability
+hotfix/critical-bug
+hotfix/payment-gateway-issue
+Release Branches
+release/v1.0.0
+release/v2.1.5
+release/v3.0.0-beta
+Experiment Branches
+experiment/new-algorithm
+experiment/refactor-codebase
+experiment/try-new-ui-framework
+Documentation Branches
+docs/update-readme
+docs/add-api-documentation
+docs/improve-contribution-guide
