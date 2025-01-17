@@ -36,3 +36,36 @@ Documentation Branches
 docs/update-readme
 docs/add-api-documentation
 docs/improve-contribution-guide
+
+Feature Commits
+Add user authentication module
+Implement shopping cart functionality
+Create dynamic dashboard layout
+Bug Fix Commits
+Fix login redirect issue
+Correct typo in user profile
+Resolve API timeout error
+Performance Improvements
+Optimize image loading for faster page speed
+Reduce database query time
+Improve caching mechanism
+UI/UX Updates
+Redesign homepage layout
+Enhance mobile responsiveness
+Update button styles for better visibility
+Documentation Updates
+Update README with setup instructions
+Add API usage examples to documentation
+Improve contribution guide
+Refactoring Commits
+Refactor user service for better readability
+Clean up unused imports
+Simplify error handling logic
+Test Commits
+Add unit tests for user authentication
+Fix broken tests in shopping cart module
+Update test cases for new API endpoints
+Miscellaneous
+Add error logging to payment service
+Update dependencies to latest versions
+Remove deprecated code from old feature
